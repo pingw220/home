@@ -197,6 +197,17 @@
     }
 }
 
+.footer {
+    display: flex;
+    height: 70px;
+    align-items: center;
+    justify-content: center;
+    background-color: #FFFACD;
+}
+.footer_content {
+    font-family: Georgia, serif;
+}
+
 a:link {
     color: black;
     text-decoration: none;
