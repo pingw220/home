@@ -142,6 +142,7 @@
     margin: 10px;
 }
 .section1{
+    border-radius: 25px;
     display: flex;
     flex-direction: column;
     width: 600px;
@@ -166,6 +167,7 @@
 }
 .section2{
     display:flex;
+    border-radius: 25px;
     flex-direction: column;
     flex:none;
     width:45%;
