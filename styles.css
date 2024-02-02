@@ -222,7 +222,7 @@
 .footer_content {
     font-family: Georgia, serif;
 }
-.icon {
+.icon a {
     color: black;
 }
 .icon :hover {
