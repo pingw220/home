@@ -5,8 +5,7 @@
     overflow: hidden;
     display: grid;
     grid-template-columns: 40% 24% 36%;
-    background-image: url(resource/code.png);
-    filter: blur(6px);
+    background-image: url(resource/code_blur.png);
     height: 550px;
     font-family: Georgia, serif;
     font-size: 30px;
