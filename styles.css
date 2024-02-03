@@ -3,7 +3,7 @@
 }
 .headline {
     display: grid;
-    grid-template-columns: 38% 28% 32%;
+    grid-template-columns: 37% 30% 31%;
     background-image: url(resource/code_blur.png);
     height: 550px;
     font-family: Georgia, serif;
