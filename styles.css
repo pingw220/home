@@ -2,31 +2,22 @@
     margin: 0; /* make the webpage fill out the window */
 }
 .headline {
-    overflow: hidden;
     display: grid;
-    grid-template-columns: 40% 24% 36%;
+    grid-template-columns: 38% 28% 32%;
     background-image: url(resource/code_blur.png);
     height: 550px;
     font-family: Georgia, serif;
     font-size: 30px;
     color: white;
     align-items: center;
-    
+    font-family: Cursive;
 }
 .name {
     align-self: start;
-    font-size: 30px;
     margin-top: 20px;
     margin-left: 30px;
     font-weight: bold;
     font-family: Georgia, serif;
-    color: white;
-}
-.centername {
-    font-size: 30px;
-    font-weight: bold;
-    font-family: Georgia, serif;
-    color: white;
 }
 .category {
     align-self: start;
@@ -96,7 +87,7 @@
     align-items:center;
     position: inline-block;
     height:300px;
-    background: linear-gradient(100deg, lightblue,#C9D7DD);
+    background: linear-gradient(100deg, rgb(75, 188, 226),#C9D7DD);
 }
 .text {
     text-align: center;
